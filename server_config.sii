@@ -3,7 +3,7 @@ SiiNunit
 server_config : _nameless.186.c64b.2a40 {
  lobby_name: "BD Bus Lover"
  description: "we love bus!! love bus, join us"
- welcome_message: "welcome to BD Bus Lover!! Bus and bangladesh mods will be added soon!"
+ welcome_message: "welcome to BD Bus Lover!! Bus and bangladesh mods added !"
  password: "Lisa1111"
  max_players: 8
  max_vehicles_total: 100
