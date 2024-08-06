@@ -1,0 +1,166 @@
+SiiNunit
+{
+server_packages_info : _nameless.1c1.f5aa.83a0 {
+ version: 1
+ dlc_essential_list: 0
+ dlc_non_essential_list: 8
+ dlc_non_essential_list[0]: 2583912098162477
+ dlc_non_essential_list[1]: 5557801920893741
+ dlc_non_essential_list[2]: 92094914797
+ dlc_non_essential_list[3]: 92649725589
+ dlc_non_essential_list[4]: 59316381
+ dlc_non_essential_list[5]: 50085130457797
+ dlc_non_essential_list[6]: 63651269
+ dlc_non_essential_list[7]: 2152080662829
+ mod_list: 13
+ mod_list[0]: _nameless.1c1.9267.4830
+ mod_list[1]: _nameless.1c1.9267.51f0
+ mod_list[2]: _nameless.1c1.9267.5070
+ mod_list[3]: _nameless.1c1.9267.4050
+ mod_list[4]: _nameless.1c1.9267.50d0
+ mod_list[5]: _nameless.1c1.9267.44d0
+ mod_list[6]: _nameless.1c1.9267.5250
+ mod_list[7]: _nameless.1c1.9267.53d0
+ mod_list[8]: _nameless.1c1.9267.5970
+ mod_list[9]: _nameless.1c1.9267.6390
+ mod_list[10]: _nameless.1c1.9267.6db0
+ mod_list[11]: _nameless.1c1.9267.6a50
+ mod_list[12]: _nameless.1c1.9267.5a90
+ map_name: "/map/probd.mbd"
+ map_dimensions: (-45056000, -29696000, 15360000, 9216000)
+ roads_data_file_name: "/home/server_packages.dat"
+ time_stamp: 1722955542
+ time_compression: 8.495001
+}
+
+server_mod_detail : _nameless.1c1.9267.4830 {
+ package_name: "Scania_Touring_HD _6x2_1_50"
+ mod_name: "Scania Touring HD Update"
+ checksum: 16505783311161129109
+ mod_id: 8615985056344211734
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1c1.9267.51f0 {
+ package_name: "Brutal Traffic V4.4 By Kass"
+ mod_name: "Brutal Traffic By Kass V"
+ checksum: 15960675911851616719
+ mod_id: 2778717520218735481
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1c1.9267.5070 {
+ package_name: probd_map
+ mod_name: "Probd map"
+ checksum: 12414569947452380550
+ mod_id: 5536587136908258037
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.4050 {
+ package_name: probd_model_03
+ mod_name: "Probd model 03"
+ checksum: 8217469906318976753
+ mod_id: 8994357768352079778
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.50d0 {
+ package_name: probd_model_02
+ mod_name: "Probd model 02"
+ checksum: 2410631196502663537
+ mod_id: 12217846440945739260
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.44d0 {
+ package_name: probd_model_01
+ mod_name: "Probd model 01"
+ checksum: 2112672716607633180
+ mod_id: 17487525258136786497
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.5250 {
+ package_name: probd_assets_04
+ mod_name: "Probd assets 04"
+ checksum: 9596251299069883608
+ mod_id: 6020909659214314760
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.53d0 {
+ package_name: probd_assets_03
+ mod_name: "Probd assets 03"
+ checksum: 6766377608152542086
+ mod_id: 550291873977674944
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.5970 {
+ package_name: probd_assets_02
+ mod_name: "Probd assets 02"
+ checksum: 10873857170968896617
+ mod_id: 2268546060399361114
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.6390 {
+ package_name: probd_assets_01
+ mod_name: "Probd assets 01"
+ checksum: 10546262944593154330
+ mod_id: 16769485639199835147
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.6db0 {
+ package_name: probd_media
+ mod_name: "Probd media"
+ checksum: 5164479836526380657
+ mod_id: 16889480636779866429
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.6a50 {
+ package_name: probd_material
+ mod_name: "Probd material"
+ checksum: 6367981306924981988
+ mod_id: 13680621462497350085
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1c1.9267.5a90 {
+ package_name: probd_definition
+ mod_name: "Probd definition"
+ checksum: 8680509101057342108
+ mod_id: 13779881431223122752
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+}
